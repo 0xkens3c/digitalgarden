@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/root/home/","tags":["gardenEntry"]}
 ---
 
-This is my home
+This is my home. Test 
